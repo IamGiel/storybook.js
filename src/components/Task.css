@@ -1,0 +1,7 @@
+/* TASK */
+
+.TASK_PINNED, .TASK_GEL, .TASK_INBOX {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+  }
